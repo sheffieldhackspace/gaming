@@ -33,5 +33,5 @@
 |     Game    	| Linux 	| Windows 	| Mac 	| Type of multiplayer 	|
 |:-----------:	|:-----:	|:-------:	|:---:	|:-------------------:	|
 | prboom-plus 	|   Y   	|         	|  Y  	|         LAN         	|
-|             	|       	|         	|     	|                     	|
+| Minecraft    	|   Y    	|     Y    	|   Y  	|         WAN          	|
 |             	|       	|         	|     	|                     	|
