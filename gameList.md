@@ -34,4 +34,4 @@
 |:-----------:	|:-----:	|:-------:	|:---:	|:-------------------:	|
 | prboom-plus 	|   Y   	|         	|  Y  	|         LAN         	|
 | Minecraft    	|   Y    	|     Y    	|   Y  	|         WAN          	|
-|             	|       	|         	|     	|                     	|
+| OpenRA       	|   Y    	|     Y    	|   Y  	|         LAN/WAN      	|
