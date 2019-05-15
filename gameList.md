@@ -30,8 +30,8 @@
 
 ---
 
-|     Game    	| Linux 	| Windows 	| Mac 	| Type of multiplayer 	|
-|:-----------:	|:-----:	|:-------:	|:---:	|:-------------------:	|
-| prboom-plus 	|   Y   	|         	|  Y  	|         LAN         	|
-| Minecraft    	|   Y    	|     Y    	|   Y  	|         WAN          	|
-| OpenRA       	|   Y    	|     Y    	|   Y  	|         LAN/WAN      	|
+|     Game    	|Current Version Played| Linux 	| Windows 	| Mac 	| Type of multiplayer 	| Install Notes |
+|:-----------:	|:--------------------:|:-----:	|:-------:	|:---:	|:-------------------:	|:------------:|
+| prboom-plus 	||   Y   	|         	|  Y  	|         LAN         	||
+| Minecraft    	||   Y    	|     Y    	|   Y  	|         WAN          	||
+| OpenRA       	|release-20190314|   Y    	|     Y    	|   Y  	|         LAN/WAN      	|[guide on installation](https://github.com/pixelpox/howTo/blob/master/games/openra.md)|
