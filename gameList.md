@@ -35,3 +35,24 @@
 | prboom-plus 	||   Y   	|         	|  Y  	|         LAN         	|||
 | Minecraft    	||   Y    	|     Y    	|   Y  	|         WAN          	|||
 | OpenRA       	|release-20190314|   Y    	|     Y    	|   Y  	|         LAN/WAN      	|64bit OS (mono)|[guide on installation](https://github.com/pixelpox/howTo/blob/master/games/openra.md)|
+
+
+## Card games
+(On request)
+
+Magic the Gathering
+- Planeswalker x2 
+- Duel Deck x2
+- Spellslinger x2
+
+## Boardgames
+(On request)
+Instructions avilable on the Hackspace server. 
+
+- Colonialism
+- Dark World
+- Guards! Guards! A discworld boardgame
+- Discworld: Ankh-Morpork
+- Elder Sign
+- Lords of Xidit
+- Ryu
