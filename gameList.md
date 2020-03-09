@@ -50,6 +50,7 @@ Magic the Gathering
 
 Instructions avilable on the Hackspace server. 
 
+- Magic the Gathering Arena of the Planeswalker
 - Colonialism
 - Dark World
 - Guards! Guards! A discworld boardgame
