@@ -41,7 +41,7 @@
 (On request)
 
 Magic the Gathering
-- Planeswalker x2 
+- Planeswalker x3
 - Duel Deck x2
 - Spellslinger x2
 
