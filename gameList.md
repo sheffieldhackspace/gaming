@@ -32,6 +32,7 @@
 
 |     Game    	|Current Version Played| Linux 	| Windows 	| Mac 	| Type of multiplayer 	|Requirements| Install Notes |
 |:-----------:	|:--------------------:|:-----:	|:-------:	|:---:	|:-------------------:	|:----------:|:------------:|
+| Hammerwatch   | Y                    | ? | Y | ? | WAN | | [gog website](https://www.gog.com/game/hammerwatch) 
 | prboom-plus 	||   Y   	|         	|  Y  	|         LAN         	|||
 | Minecraft    	||   Y    	|     Y    	|   Y  	|         WAN          	|||
 | OpenRA       	|release-20190314|   Y    	|     Y    	|   Y  	|         LAN/WAN      	|64bit OS (mono)|[guide on installation](https://github.com/pixelpox/howTo/blob/master/games/openra.md)|
